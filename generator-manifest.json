@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "eSame game for enigma2",
+  "description_recipe": "eSame game for enigma2",
+  "history_source_dir": "esame",
+  "internal_package_name": "enigma2-plugin-extensions-esame",
+  "module_dir_name": "eSame",
+  "output_subdir": "esame",
+  "package_name": "enigma2-plugin-extensions-esame",
+  "plugin_src_rel": "esame",
+  "python_package": "eSame",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "eSame",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
