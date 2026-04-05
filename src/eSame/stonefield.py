@@ -10,7 +10,6 @@
 #===============================================================================
 
 import random
-from six.moves import range
 
 
 class Stone:
